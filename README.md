@@ -5,6 +5,5 @@ I will relay the credits from where I borrow the codes.
 
 OPENAI GYM Documentation - https://gym.openai.com/docs
 
+For all codes in this repository so far:- 
 Basic Framework and codes - http://kvfrans.com/simple-algoritms-for-solving-cartpole/
-
-
